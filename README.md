@@ -3,6 +3,6 @@
 
 > This is a calculator
 
-![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcalculator&psig=AOvVaw1Rziv4zCvISUCAFopqiv9B&ust=1640162640033000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPix_4_A9PQCFQAAAAAdAAAAABAa)
+![This is an image](https://media.wired.com/photos/5c83066025da7204699767c7/16:9/w_2400,h_1350,c_limit/calculator-1470.jpg)
 
 ***Following is the code to the calculator***
